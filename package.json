@@ -1,5 +1,5 @@
 {
-  "name": "enterprise-discord-bot",
+  "name": "astryx-2.0",
   "version": "1.0.0",
   "description": "Production-ready Enterprise Discord Bot built with discord.js v14",
   "main": "src/index.js",
